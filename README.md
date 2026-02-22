@@ -7,3 +7,8 @@ print,input,
 operations.
 Excercise1:making simple variables, taking input from user and print it.
 Excercise2:taking input from user and perform arithmetic operations, comparison, logical operators, on it.
+loops,
+for loop
+while loop
+range,
+Exercise3:printing 1-100 counting
