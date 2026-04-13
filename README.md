@@ -20,3 +20,5 @@ while loop
 range,
 <br>
 Exercise3:printing 1-100 counting
+<br>
+oops in python
